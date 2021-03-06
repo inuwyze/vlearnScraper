@@ -13,16 +13,18 @@ def get_details(driver):
             element.click()
 
 
-
-        driver.implicitly_wait(5)
-        courses=driver.find_elements(By.XPATH,"//div[@class='no-overflow']")
-        teachers=driver.find_elements(By.XPATH,"//ul[@class='teachers']/li")
-
-        for course,teacher in zip(courses,teachers):
-            courseDetails.append([course.text,teacher.text])
+        
+        # driver.implicitly_wait(5)
+        details=driver.find_elements(By.XPATH,"//div[@class='no-overflow']")
+        names=driver.find_elements(By.XPATH,"//*[@class='coursename']/a")
+        teachers=driver.find_elements(By.XPATH,"//ul[@class='teachers']/li")    
+        # print(names)
+        for name,detail,teacher in zip(names,details,teachers):
+            courseDetails.append([name.text,detail.text,teacher.text])
             # print('lol')
-            # print(course.text)
-            # print(teacher.text)
+            print(name.text)
+            print(teacher.text)
+            print(detail.text)
 
         
         next=driver.find_elements(By.XPATH,'//span[text()="»"]//parent::a')

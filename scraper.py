@@ -57,30 +57,5 @@ for x in departmentLinks:
 
     file=open("courseDetails/"+department_abv[x]+"CourseDetails.json",'w')
     json.dump(coursesData,file,indent=4)
-
-
-
-
-
-
-# import pickle
-# file=open('courseDetails.pkl','wb')
-# pickle.dump(coursesData,file)
-
-# print(coursesData)
-
-
     
-# cse=driver.find_element(By.XPATH,'//*[@id="frontpage-category-names"]/div/div[2]/div/div[1]/div[2]/div/div[6]/div[1]/h4/a')
-# cse.click()
-# driver.implicitly_wait(5)
-# category=driver.find_elements(By.CLASS_NAME,'categoryname')
-# category=driver.find_elements(By.XPATH,"//h3[@class='categoryname']//a")
-
-
-
-
-# tillNext=True
-
-
 driver.close()
