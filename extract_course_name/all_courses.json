@@ -1,0 +1,3032 @@
+[
+    [
+        "Applied Statistics (Only for SoEC & SoMC)",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Industrial Safety and Health",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Basic Electrical and Electronics Engineering Laboratory",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Human Values for Engineers",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "3D Architecture and Art Design",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Engineering Mathematics-II",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Communication Laboratory",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Image Processing",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Major Project-PC",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Advanced Vedic Mathematics",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Photographic Techniques",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Cloud Strategy Planning & Management",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Embedded System",
+        "Program Electives",
+        "EEE"
+    ],
+    [
+        "TRAINING AND DEVELOPMENT",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Object Oriented Programming",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Algorithmic Analysis",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Telehealth Technology",
+        "Allied Electives",
+        "BIOMED"
+    ],
+    [
+        "Computer Networks Laboratory",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Understanding Gender",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Fuel Conservation and Alternate Fuels",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "Architectural Conservation and Historic Preservation",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Multimedia Communication",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Satellite Launch Vehicles",
+        "Institute Electives",
+        "AERO"
+    ],
+    [
+        "2D Design and Illustration",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Cloud Networking",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Heat and Mass Transfer Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Cryofuels",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Geo synthetics and Reinforced Soil Structures",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Mechatronics Systems (Auto specialization)",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Big Data Architecture and Tools",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Problem Solving using C",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Finite Element Analysis (Auto specialization)",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Surveying Practical - II",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Engineering Chemistry Laboratory",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "NDG LINUX ESSENTIALS",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Scheduling Techniques in Projects",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Microprocessors and Microcontrollers",
+        "Allied Electives",
+        "ECE"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "ECE"
+    ],
+    [
+        "Python Programming",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Basic Electronics",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Cryptography and Network Security",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Aircraft Structural Mechanics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Construction Contracts",
+        "Institute Electives",
+        "CIVIL"
+    ],
+    [
+        "Linear Integrated Circuits",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Prefabricated Structures",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Fiber Lasers and Applications",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Programming in C++ \u2013 NPTEL",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Principle of Electrical Sciences",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Web Technologies",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Automotive Chassis",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "MECH"
+    ],
+    [
+        "Latest Advancements in NVH",
+        "Industry/Higher Learning Institute Interaction",
+        "AUTO"
+    ],
+    [
+        "Applied Statistics(Only for SoEC & SoMC)",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Biopharmaceticals",
+        "Independent Learning",
+        "BIOTECH"
+    ],
+    [
+        "Biosensors and Instrumentation",
+        "Allied Electives",
+        "BIOTECH"
+    ],
+    [
+        "Operating Systems",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "BioPhotonics",
+        "Independent Learning",
+        "BIOMED"
+    ],
+    [
+        "Control Systems",
+        "Allied Electives",
+        "ECE"
+    ],
+    [
+        "Visual Arts II",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Python Programming",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Analytical Techniques and Instrumentation",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Human Values and Occupational Ethics",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Microprocessors and Controllers",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Group3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Workplace Communication - II",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Finite Element Analysis of Composite Structures",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "I.C. Engines",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "Food Processing Technology",
+        "Program Electives",
+        "BIOTECH"
+    ],
+    [
+        "Internet of Things: Sensing and Actuation From Devices",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "ANN and Deep Learning",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Internet Programming",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Analog Electronics",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Automotive Electrical and Electronics",
+        "Institute Electives",
+        "AUTO"
+    ],
+    [
+        "Air Transportation and Aircraft Maintenance",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Software Testing",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Network Security",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Design of Reinforced Concrete and Brick Masonry Structures",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "BASICS OF DYNAMICS AND ASEISMIC DESIGN OF STRUCTURES",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "ANGULAR JS",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Electrical Machines",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Advertising Photography",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Communication Psychology",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Engineering Physics",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "IT"
+    ],
+    [
+        "Cloud Security",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Aerodynamics Laboratory",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "MINOR PROJECT",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Data Warehousing and Mining",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Environmental Remediation of Contaminated Sites",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Elements of Solar Energy Conversion",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Experimental Stress Analysis",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "INTRODUCTION TO CYBERSECURITY",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Automotive Emission and Control",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "Networking in GCP Defining and Implementing Networks",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Operating Systems",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Strength of Materials Laboratory",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Optical and Microwave Engineering Laboratory",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Introduction to Engineering",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Automotive Safety",
+        "Institute Electives",
+        "AUTO"
+    ],
+    [
+        "Database Management Systems",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Aero Engine Maintenance and Structural Repair Laboratory",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Brain Computer Interface",
+        "Institute Electives",
+        "BIOMED"
+    ],
+    [
+        "Survey Camp",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Introduction to Aerospace Engineering",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Wireless Digital Communication",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Operations Research",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Media Culture and Society",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Seminar I",
+        "Independent Learning",
+        "BIOMED"
+    ],
+    [
+        "Solid State Drives",
+        "Program Electives",
+        "EEE"
+    ],
+    [
+        "Signals and Systems",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Virtual Instrumentation",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Python Programming Fundamentals",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Machining and Machine Tools Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Social Enterpreneurship",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Rural Water Supply and Onsite Sanitation",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Basic Photography",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Automotive Testing and Certification (Auto specialization)",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Mechatronics Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Genetic Engineering",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Power System Analysis",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Aero Engineering Thermodynamics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "AUTO"
+    ],
+    [
+        "Bioengineering:An Interface with Biology and Medicine",
+        "Independent Learning",
+        "BIOTECH"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Waste to Energy Conversion",
+        "Independent Learning",
+        "BIOTECH"
+    ],
+    [
+        "Power System Engineering",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Data Analytics with Python",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "CAD and Applied FEA Laboratory",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Biology for Engineers",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Competitive Coding \u2013 III",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "VLSI Design Techniques",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "AERO"
+    ],
+    [
+        "VAC -BOOK ANALYSIS",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Water Resource and Irrigation Engineering",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "BIOMED"
+    ],
+    [
+        "Embedded Programming",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Engineering Materials",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Visual Analysis Techniques",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Basic Electrical Engineering",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Cloud Security",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Basics of Advertising",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Embedded C Programming",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Dynamics of Machinery Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "PCAP: PROGRAMMING ESSENTIALS IN PYTHON",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Embedded Systems Design",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Minor Project",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Programming, Data Structures and Algorithms using Python",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Cloud computing Concepts",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Transforms and Partial Differential Equations(Only for SoEC & SoMC)",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Vehicle Design and Data Characteristics",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Linux Programming and Scripting",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "High Speed Jet Flows",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "DEV OPS",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Blockchain Technology",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Environmental Studies",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Presentation Skills",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "The Conquest of Space: Space Exploration and Rocket science",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Automotive Transmission",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "MONGO DB",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Unmanned Systems",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Nanostructures",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Power Quality improvement techniques",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Entrepreneurship - Skills and Development",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Two Wheeler Maintenance Laboratory",
+        "Institute Electives",
+        "AUTO"
+    ],
+    [
+        "Contemporary Challenges and Solutions for Wireless Networking",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Resource and Energy Recovery from Waste",
+        "Institute Electives",
+        "CIVIL"
+    ],
+    [
+        "Geotechnical Engineering - I",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Mathematics for Electronics and Communication Engineers",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Aircraft Gas Turbine Propulsion",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Silicon Validation",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Industrial Automation",
+        "Institute Electives",
+        "ECE"
+    ],
+    [
+        "Analog VLSI Design",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Computer Ethics",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Design and Development of Cloud Applications",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Artificial Intelligence",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "CAD and Applied FEA",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Seminar II",
+        "Independent Learning",
+        "BIOMED"
+    ],
+    [
+        "Java Programming",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Verification Testbenches using OVM and UVM",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Lightweight Design",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "VLSI Design",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Optical and Microwave Engineering",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Technological Advancements in VLSI Design",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "INTRODUCTION TO LOGISTICS",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Linear System Analysis and Control",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Engineering Graphics",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Solid State Devices",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Video Surveillance Systems",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Seminar - I",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Artificial Neural Networks",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Basics of Game Design",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Engineering Metrology and Measurements",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Seminar-1",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Combustion in Jet and Rocket Engines",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Manufacturing Technology Lab",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Building Automation",
+        "Institute Electives",
+        "ECE"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Digital Electronics Laboratory",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "LeetCode",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "MANAGEMENT ACCOUNTING",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Data Structures Lab",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Script Writing and Television Production",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Project work",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "Unit Operations and Transport Phenomena",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Fatigue and Fracture Mechanics",
+        "Allied Electives",
+        "AERO"
+    ],
+    [
+        "Medical Electronics",
+        "Institute Electives",
+        "ECE"
+    ],
+    [
+        "Satellite Communication",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Wipro Talent Next",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "BIOTECH"
+    ],
+    [
+        "Combustion & Heat Transfer in Engines",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Mobile Communication",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Biomedical Instrumentation",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Engineering Metrolgy and Measurements",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Cell Biology Laboratory",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Basic Electronics Engineering",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Repair and Rehabilitation of Structures",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Process Planning and Cost Estimation",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Material Characterization",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Fuel Testing Laboratory",
+        "Institute Electives",
+        "AUTO"
+    ],
+    [
+        "InfyTQ-3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "InfyTq",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Introduction to Logistics",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "Augmented & Virtual Reality for Aerospace Applications",
+        "Industry/Higher Learning Institute Interaction",
+        "AERO"
+    ],
+    [
+        "Tensor Flow for Deep Learning",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "System Software",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "AC Machines",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Theoretical and Methodological Trends in Signal Processing",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Operating Systems Laboratory",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Power Supply Quality",
+        "Allied Electives",
+        "EEE"
+    ],
+    [
+        "RF and Microwave Integrated Circuits",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Material Charatcerization and Testing Methods",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Structural Analysis - II",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Analog Electronics and Integrated Circuits Laboratory",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Academic Writing",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Energy Resources, Economics and Environment",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Compiler Design",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Java Programming Lab",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Networking and Security Architecture with VMware NSX",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Principles of Programming Logic",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Basic Civil Engineering",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "EEE"
+    ],
+    [
+        "Control Systems",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Engineering Mechanics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "SERVICES MARKETING",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Engineering Mechanics",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Workplace Communication - I",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Introduction to Programming with MATLAB",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Object Oriented Programming Laboratory",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Digital Electronics",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Telehealth Technology",
+        "Program Electives",
+        "BIOMED"
+    ],
+    [
+        "Electrical Safety & Safety Management",
+        "Institute Electives",
+        "EEE"
+    ],
+    [
+        "Technical Challenges in RF and Microwave System Design",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Vehicle Dynamics (Auto specialization)",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Radio over Fiber System",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Deep Learning",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Development of Embedded and RTOS",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Innovation Management",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Electronic Waste Management - Issues and Challenges",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Cyber Security",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Mechanics of Machines",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Digital Electronics",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Prestressed Concrete",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Cloud Computing Concepts",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Artificial Intelligence System in Manufacturing",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Enterprise Resource Planning",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "Biomedical Informatics",
+        "Program Electives",
+        "BIOMED"
+    ],
+    [
+        "Linear Integrated Circuits",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Design of Transmission Systems",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Computational Biology",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Seminar - II",
+        "Independent Learning",
+        "AUTO"
+    ],
+    [
+        "Training and Developement",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "INTRODUCTION TO IOT",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Seminar-I",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Solar Thermal Technology",
+        "Institute Electives",
+        "MECH"
+    ],
+    [
+        "Avionics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Thermal Engineering Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Film Studies",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Medical Physics",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Technical English",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Digital Forensics Methods",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Diagnostic and Therapeutic Equipments-II",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "IBM Machine Learning with Python",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Introduction to Watson AI",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Embedded Processors",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Automotive Safety",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Automobile Engineering",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "Refrigeration and Air Conditioning",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Basic Tamil",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "EXPORT IMPORT MANAGEMENT",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Thermal Engineering (Auto specialization)",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Creative Writing",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Basic Mechanical Engineering",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Passionate Leadership",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Waveguides and Antennas",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Disaster Management",
+        "Institute Electives",
+        "AERO"
+    ],
+    [
+        "Biomaterials Engineering",
+        "Institute Electives",
+        "BIOTECH"
+    ],
+    [
+        "Transducers and Sensors",
+        "Allied Electives",
+        "EEE"
+    ],
+    [
+        "Cell Biology",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Machine Learning Techniques",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Object Oriented Programming Lab",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Robotics and Automation",
+        "Institute Electives",
+        "EEE"
+    ],
+    [
+        "Python Programming",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Medical Biomaterials",
+        "Independent Learning",
+        "BIOMED"
+    ],
+    [
+        "Cellular Mobile Communication",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "The Bits and Bytes of Computer Networking",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Flight Mechanics and Control Laboratory",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Professional Python Programming",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Introduction to Industry 4.0 and Industrial Internet of Things",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Design of Machine Elements",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Operating Systems",
+        "Allied Electives",
+        "CSE"
+    ],
+    [
+        "Soil Structure Interaction",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "ECE"
+    ],
+    [
+        "Biomedical Instrumentation and Imaging",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "VLSI CAD - Logic",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Virtualization Techniques",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Sensors and Transducers",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "E-Waste Management",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Data Structures using C",
+        "Allied Electives",
+        "CSE"
+    ],
+    [
+        "Hospital Management",
+        "Program Electives",
+        "BIOMED"
+    ],
+    [
+        "Flexible Manufacturing Systems",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Python Data Structures",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "MECH"
+    ],
+    [
+        "Competitive Coding - II",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Biopharmaceutical Technology",
+        "Program Electives",
+        "BIOTECH"
+    ],
+    [
+        "ENTERPRISE RESOURCE PLANNING",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Automobile Engineering",
+        "Institute Electives",
+        "AUTO"
+    ],
+    [
+        "Digital Land Surveying And Mapping (DLS&M)",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Air Pollution Management",
+        "Allied Electives",
+        "CIVIL"
+    ],
+    [
+        "Drones and Autonomous Systems I: Fundamentals",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Object Oriented Software Engineering",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Agile and Scrum",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Automotive Transmission",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "Programming in Java",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Fluid Mechanics and Machinery Lab",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Measurements and Instrumentation",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Minor Project",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Radiological Equipment",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "The Joy of Computing using Python",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Molecular Biology Laboratory",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "E-Commerce",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "Uipath: Robotic Process Automation",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Applied Statistics",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Secured Networked System with Firewall and IDS",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Computational Methods for Aeronautical Engineering",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Embedded System Design with ARM",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Protection and Switchgear",
+        "Program Electives",
+        "EEE"
+    ],
+    [
+        "Introduction to Soft Computing",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Electric Circuits Analysis",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Engineering Chemistry",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Biomedical Signal Processing",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Fluid Mechanics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Data Warehousing and Data Mining",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Design Thinking",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Construction Engineering",
+        "Institute Electives",
+        "CIVIL"
+    ],
+    [
+        "Operating Systems",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Cryptography and Network Security",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Machine Learning",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Electronics Instrumentation",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Java Programming Laboratory",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Python Programming Fundamentals",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Design of Steel Structures",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Solar Photovoltaic System",
+        "Program Electives",
+        "EEE"
+    ],
+    [
+        "Applied Environmental Microbiology",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Database Management Systems",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Software Defined Radio",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Operating Systems",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "3D Printing",
+        "Institute Electives",
+        "MECH"
+    ],
+    [
+        "Nano Materials and Applications",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Biochemistry and Physiology Laboratory",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Data Structures",
+        "Institute Electives",
+        "CSE"
+    ],
+    [
+        "TOTAL QUALITY MANAGEMENT",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Mandarin Chinese Foundation - I, II & III",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Theory of Computation",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Machine Learning",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Additive Manufacturing Technology",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Engineering Metrology and Measurements",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Seminar - I",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Discrete Time Signal Processing",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Manufacturing Technology Lab",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Computer Networks Laboratory",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Microprocessors and Microcontrollers Laboratory",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Organic Electronics Devices",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "IPR and Patents Rights",
+        "Institute Electives",
+        "MECH"
+    ],
+    [
+        "2D / 3D Graphics",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Basics of Python Programming",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Cyber Forensics",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Electrical Machines",
+        "Institute Electives",
+        "EEE"
+    ],
+    [
+        "SQL Fundamentals",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "Mechanics of Solids",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "E-COMMERCE",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Venture Development & Social Enterpreneurship",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "COMPUTER APPLICATIONS IN CIVIL ENGINEERING",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Technical Seminar - II",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Discrete Time Signal Processing Lab",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Design and Analysis of Algorithms",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Analog Communication Systems",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Microprocessors and Microcontrollers Laboratory",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Applied Statistics (Only for SoC)",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Printing & Publicaion Design",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Integrated Product Development",
+        "Institute Electives",
+        "MECH"
+    ],
+    [
+        "Non-Conventional Energy Resources",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Chemical Engineering Thermodynamics",
+        "Independent Learning",
+        "BIOTECH"
+    ],
+    [
+        "INTRODUCTION TO PACKET TRACER",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Automotive Aerodynamics (Auto specialization)",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Verification using SystemC",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Downstream Processing",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "GET CONNECTED",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Boundary Layer Theory",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Embedded OS and Device Drivers",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Technical Communication",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "INVESTMENT BANKING",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "AUTO"
+    ],
+    [
+        "Electromagnetic Fields",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Plastic Waste Management",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Electrical Machines-II",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Media Laws and Ethics",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Ethics in Engineering",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Soft Skills",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Thirukkural",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Autopilot Design",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Computer Networks",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "IT"
+    ],
+    [
+        "Geotechnical Engineering - II",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Reinforcement Learning",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Bio-Sensors and Transducers",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Strength of Materials",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "BIOMED"
+    ],
+    [
+        "Robotics in Medicine",
+        "Program Electives",
+        "BIOMED"
+    ],
+    [
+        "Basic Concepts of Biotechnology",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Analog and Digital Control Systems",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Space Flight Mechanics",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Geotechnical Engineering II/Foundation Engineering",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Microprocessors and Microcontrollers",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Power Plant Engineering",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Service Marketing",
+        "MBA",
+        "MANAGEMENT"
+    ],
+    [
+        "Vehicle Body Engineering",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Analog and Digital Communication",
+        "Allied Electives",
+        "ECE"
+    ],
+    [
+        "Microprocessors and Microcontrollers",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Control & Instrumentation Lab",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Strength of Materials",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Stress Relief for the Anxious Mind",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Biological Mass Transfer",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Digital Electronics",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Computer Aided Drafting and Modelling",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Cloud Application and Architecture",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Kinematics of Machinery",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Landscape Architecture and Site Planning - Basic Fundamentals",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Automotive Fuels, Lubricants and Coolants",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Numerical Methods using MATLAB",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Electric and Hybrid Vehicles",
+        "Allied Electives",
+        "AUTO"
+    ],
+    [
+        "SQL Fundamentals",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Getting Started with SAS Programming",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Embedded Design Verification and Testing",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Microprocessors and Microcontrollers",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "CIVIL"
+    ],
+    [
+        "Data Communication Networks",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Cloud Computing",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Wipro Talent Next3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Computer Networks",
+        "Institute Electives",
+        "CSE"
+    ],
+    [
+        "Body Area Networks",
+        "Allied Electives",
+        "BIOMED"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "AUTO"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Data Structures and Performance",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Plant Biotechnology",
+        "Program Electives",
+        "BIOTECH"
+    ],
+    [
+        "Design of Steel structures",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Seminar - I",
+        "Independent Learning",
+        "AUTO"
+    ],
+    [
+        "Web Programming with Python and Javascript",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Wireless Communication Networks",
+        "Allied Electives",
+        "ECE"
+    ],
+    [
+        "Construction Equipment and Management",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Computer Networks",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Internet of Things",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "AERO"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "BIOMED"
+    ],
+    [
+        "Tool Design Engineering",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "IoT Security",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Fundamentals of Linux Device Drivers",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Database Management Systems Laboratory",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Home Networking Basics",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Technological Advancements in Embedded Systems",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Embedded System",
+        "Institute Electives",
+        "EEE"
+    ],
+    [
+        "Fluid Mechanics",
+        "Program Core",
+        "CIVIL"
+    ],
+    [
+        "Ethical Hacking",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Major Project",
+        "Independent Learning",
+        "BIOTECH"
+    ],
+    [
+        "Cloud Security",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Network Management",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Programming Data Structures and Algorithms using Python \u2013 NPTEL",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Incompressible Flow Aerodynamics",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Biochips and Microarrays",
+        "Allied Electives",
+        "BIOTECH"
+    ],
+    [
+        "Concrete Mathematics",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Strength of Materials Laboratory",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Mobile Application Development",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Data Visualization and Communication with Tableau",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "CYBER THREAT INTELLIGENCE",
+        "Industry/Higher Learning Institute Interaction",
+        "CSE"
+    ],
+    [
+        "Batteries and Fuel Cells",
+        "Institute Electives",
+        "ARTS"
+    ],
+    [
+        "Dynamics of Machinery",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Technical Seminar - I",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "PROJECT WORK",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Gas Dynamics and Jet Propulsion",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Group2",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Portfolio Presentation",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Introduction to Machine Learning",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Computer Graphics and Image Processing",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Aptitude skills II",
+        "Complementary Skills",
+        "EEE"
+    ],
+    [
+        "Propulsion Laboratory",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "INDUSTRIAL LAWS",
+        "B.B.A",
+        "MANAGEMENT"
+    ],
+    [
+        "Bitcoin and its Applications",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Introduction to Time varrying Electrical networks",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Airplane Stability and Control",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Internet of Things",
+        "Program Electives",
+        "IT"
+    ],
+    [
+        "Lean Manufacturing and Lean Supplies in Automobile Industry",
+        "Industry/Higher Learning Institute Interaction",
+        "AUTO"
+    ],
+    [
+        "Green Energy Resources",
+        "Institute Electives",
+        "EEE"
+    ],
+    [
+        "Numerical Methods",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Theory of Vibrations",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Enzyme Science and Technology",
+        "Program Electives",
+        "BIOTECH"
+    ],
+    [
+        "Hypersonics from Shock Waves to Scramjets",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Hypersonic Aerodynamics",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Wireless Communication",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Computational Fluid Dynamics",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Pathology and Microbiology",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Optical Communication Systems and Networks",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Design of Transmission Systems (Auto specialization)",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Logistics and Supply Chain Management",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Biostatistics",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "BIOTECH"
+    ],
+    [
+        "Wipro Talent Next -3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Machining and Machine Tools",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Aircraft Systems and Instruments",
+        "Program Core",
+        "AERO"
+    ],
+    [
+        "Fundamental of Power Electronics",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Developing Android Apps with App Inventor",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Wipro Talent Next-3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Composite Materials and Polymers",
+        "Allied Electives",
+        "MECH"
+    ],
+    [
+        "Artificial Intelligence",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Industrial Management",
+        "Allied Electives",
+        "MECH"
+    ],
+    [
+        "Sparse Representation in Image Processing",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Wipro Talent Next 3",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Introduction to Design and Analysis of Algorithms",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Vehicle Dynamics",
+        "Program Core",
+        "AUTO"
+    ],
+    [
+        "Aathichudi",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "Bioprocess Engineering lab",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Electric Propulsion",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Project Management and Finance",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "SoC Verification using SystemVerilog",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Seminar-2",
+        "Independent Learning",
+        "EEE"
+    ],
+    [
+        "Object Oriented Programming Lab",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Downstream Processing Lab",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Competitive Coding - I",
+        "Program Electives",
+        "CSE"
+    ],
+    [
+        "Engineering Mathematics-I",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Signals and Systems",
+        "Program Core",
+        "BIOMED"
+    ],
+    [
+        "Industrial Artificial Intelligence",
+        "Allied Electives",
+        "CSE"
+    ],
+    [
+        "Analog Integrated Circuits Laboratory",
+        "Program Core",
+        "ECE"
+    ],
+    [
+        "Intelligent Manufacturing Technology",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Java Programming for Engineers",
+        "Institute Electives",
+        "CSE"
+    ],
+    [
+        "Digital Image Processing",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Embedded System Security",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Low Power VLSI Design",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Energy Auditing and Management",
+        "Program Electives",
+        "EEE"
+    ],
+    [
+        "Industrial Artificial Intelligence",
+        "Institute Electives",
+        "CSE"
+    ],
+    [
+        "Computer Organization and Architecture",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "MEMS and Microsystems",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Building Materials",
+        "Institute Electives",
+        "CIVIL"
+    ],
+    [
+        "Event Photography",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Engine Testing and Certification",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Heat and Mass Transfer",
+        "Program Core",
+        "MECH"
+    ],
+    [
+        "Integrated Product Development",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "CCNA: INTRODUCTION TO NETWORKS",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Object Oriented Software Engineering",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Energy Management",
+        "Institute Electives",
+        "MECH"
+    ],
+    [
+        "Object Oriented Programming",
+        "Allied Electives",
+        "IT"
+    ],
+    [
+        "AC Machines Lab",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Next Generation Mobile Networks",
+        "Program Electives",
+        "ECE"
+    ],
+    [
+        "Discrete Time Signal Processing",
+        "Program Core",
+        "EEE"
+    ],
+    [
+        "Perl Scripting",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Digital Electronics",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Principles of Construction Management",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Aircraft Design Project - I",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Operating Systems Laboratory",
+        "Program Core",
+        "CSE"
+    ],
+    [
+        "Object Oriented Programming",
+        "Program Core",
+        "IT"
+    ],
+    [
+        "Industrial Robotics",
+        "Program Electives",
+        "MECH"
+    ],
+    [
+        "Database Management System",
+        "Institute Electives",
+        "IT"
+    ],
+    [
+        "Ad Film Making",
+        "Visual Communication",
+        "MASSCOMM"
+    ],
+    [
+        "Design and Optimization of Gears",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Seminar - II",
+        "Independent Learning",
+        "CIVIL"
+    ],
+    [
+        "Remote Sensing and GIS",
+        "Program Elective",
+        "CIVIL"
+    ],
+    [
+        "Soft skills I",
+        "Complementary Skills",
+        "CIVIL"
+    ],
+    [
+        "Medical Image Analysis",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Plastic Electronics",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "Experimental Aerodynamics",
+        "Program Electives",
+        "AERO"
+    ],
+    [
+        "Biomedical Instrumentation",
+        "Allied Electives",
+        "EEE"
+    ],
+    [
+        "Battery Technology",
+        "Industry/Higher Learning Institute Interaction",
+        "EEE"
+    ],
+    [
+        "Applications of Remote Sensing and GIS in Disaster Management",
+        "Institute Electives",
+        "CIVIL"
+    ],
+    [
+        "Molecular Biology: Concepts and Applications",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Immunology and Immunotechnology",
+        "Program Core",
+        "BIOTECH"
+    ],
+    [
+        "Transforms and Partial Differential Equations",
+        "Foundation",
+        "ALL"
+    ],
+    [
+        "Total Quality Management",
+        "Program Electives",
+        "AUTO"
+    ],
+    [
+        "Mini Project - II",
+        "Independent Learning",
+        "AERO"
+    ],
+    [
+        "Embedded Linux Security",
+        "Independent Learning",
+        "ECE"
+    ],
+    [
+        "CLA: PROGRAMMING ESSENTIALS IN C",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Vedic Mathematics",
+        "VEE",
+        "ALL"
+    ],
+    [
+        "CPP: ADVANCED PROGRAMMING IN C++",
+        "Complementary Skills",
+        "CSE"
+    ],
+    [
+        "Seminar - II",
+        "Independent Learning",
+        "CSE"
+    ],
+    [
+        "Engineering Physics Laboratory",
+        "Foundation",
+        "ALL"
+    ]
+]
